@@ -15,7 +15,7 @@ function buttonClick(){
         console.log("I was clicked!");
 }
 
-button.addEventListener("click", clicked);
+button.addEventListener("click", buttonClick);
 
 //Question 3
 
