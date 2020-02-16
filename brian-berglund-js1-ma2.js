@@ -83,6 +83,7 @@ const sheep = ["Malcolm", "Anders", "Marie"];
     });
 
 //Question 9
+const intervalID = setInterval(timeLog, 500);
 
 function timeLog(){
       console.log("Hello!");
@@ -93,7 +94,6 @@ function timeLog(){
       counter++
 }
 let counter = 0
-const intervalID = setInterval(timeLog, 500);
 
 
 //Question 10
