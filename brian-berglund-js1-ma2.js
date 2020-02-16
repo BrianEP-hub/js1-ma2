@@ -68,7 +68,7 @@ switch(animals){
     case "cow":
     console.log("Moo");
     break;
-    case: "bird":
+    case "bird":
     console.log("Tweet");
     break
     default:
