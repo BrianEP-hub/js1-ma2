@@ -65,7 +65,7 @@ switch(animals){
     case "cat":
     console.log("Meow");
     break;
-    case: "cow":
+    case "cow":
     console.log("Moo");
     break;
     case: "bird":
