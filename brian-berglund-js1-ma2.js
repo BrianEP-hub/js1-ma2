@@ -35,7 +35,7 @@ function hovOver(){
       mOver.classList.add("hover");
       console.dir(mOver.classList);
 }
-mOver.addEventListener("mouseover", hovering);
+mOver.addEventListener("mouseover", hovOver);
 
 //Question 5
 
